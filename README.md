@@ -8,7 +8,7 @@ This is an introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+changing the purpose text
 
 ## Deployment
 
