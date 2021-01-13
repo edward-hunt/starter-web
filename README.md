@@ -8,8 +8,12 @@ This is an introduction
 
 ## Purpose
 
-changing the purpose text
+Changing this again
 
 ## Deployment
 
+Developing the deployment section
+
 ## How to Contribute
+
+Contributor Information
