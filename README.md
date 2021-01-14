@@ -17,3 +17,7 @@ Developing the deployment section
 ## How to Contribute
 
 Contributor Information
+
+### Copyright
+
+copyright 2021 Git Traininer
