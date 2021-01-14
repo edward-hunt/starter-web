@@ -23,3 +23,5 @@ Contributor Information
 copyright 2021 Git Trainer - plus some other stuff
 
 Rebasing testing adding a line - more changes from my feature branch
+
+emergency fix to test styashing
