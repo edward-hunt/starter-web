@@ -20,4 +20,4 @@ Contributor Information
 
 ### Copyright
 
-copyright 2021 Git Traininer
+copyright 2021 Git Trainer - plus some other stuff
