@@ -3,6 +3,7 @@
 
 # TEAM
     that thing that changed
+    Edward - Manager - @Edward
     <name> -- <role> -- <twitter>
 
 # THANKS
